@@ -87,7 +87,7 @@ body{
     .home{
         width: 400px; 
         height: 200px; 
-        object-fit: cover; 
+        object-fit: cover; /
     }
     .logo-container {
         display: flex;
